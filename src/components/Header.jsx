@@ -37,7 +37,7 @@ const Header = () => {
   const menuList = [
     {
       name: 'Inicio',
-      url: '/',
+      url: '/conlasermx',
       icon: Home
     },
     {
@@ -104,7 +104,7 @@ const Header = () => {
           {MenuOpneClose()}
         </MenuButtonOpenClose>
         <LogoLinkStyled
-          to='/'
+          to='/conlasermx'
         >
           <LogoImgStyled 
             src={Logo}
