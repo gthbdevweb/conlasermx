@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/conlasermx/static/css/main.25061a70.css",
-    "main.js": "/conlasermx/static/js/main.cc26c867.js",
+    "main.js": "/conlasermx/static/js/main.246fef56.js",
     "static/js/787.1b0b7581.chunk.js": "/conlasermx/static/js/787.1b0b7581.chunk.js",
     "static/media/collar.jpeg": "/conlasermx/static/media/collar.c5f89fe3ca6698e74346.jpeg",
     "static/media/playera-llavero-cojin.jpeg": "/conlasermx/static/media/playera-llavero-cojin.a4a922c90e5209a8c1d8.jpeg",
@@ -26,11 +26,11 @@
     "static/media/arrow-left.svg": "/conlasermx/static/media/arrow-left.49e469429c859c29e386f5686e44cb54.svg",
     "static/media/menu-open.svg": "/conlasermx/static/media/menu-open.996f4150fbea6150e9d9fb6b5a113ee5.svg",
     "main.25061a70.css.map": "/conlasermx/static/css/main.25061a70.css.map",
-    "main.cc26c867.js.map": "/conlasermx/static/js/main.cc26c867.js.map",
+    "main.246fef56.js.map": "/conlasermx/static/js/main.246fef56.js.map",
     "787.1b0b7581.chunk.js.map": "/conlasermx/static/js/787.1b0b7581.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25061a70.css",
-    "static/js/main.cc26c867.js"
+    "static/js/main.246fef56.js"
   ]
 }
