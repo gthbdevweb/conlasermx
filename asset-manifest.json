@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/conlasermx/static/css/main.25061a70.css",
+    "main.js": "/conlasermx/static/js/main.cc26c867.js",
+    "static/js/787.1b0b7581.chunk.js": "/conlasermx/static/js/787.1b0b7581.chunk.js",
+    "static/media/collar.jpeg": "/conlasermx/static/media/collar.c5f89fe3ca6698e74346.jpeg",
+    "static/media/playera-llavero-cojin.jpeg": "/conlasermx/static/media/playera-llavero-cojin.a4a922c90e5209a8c1d8.jpeg",
+    "static/media/cojin-llavero.jpeg": "/conlasermx/static/media/cojin-llavero.63738fec5a88899da229.jpeg",
+    "static/media/placa-metalica.jpeg": "/conlasermx/static/media/placa-metalica.cd431bef9ad8574d4b8b.jpeg",
+    "static/media/logo.jpeg": "/conlasermx/static/media/logo.b04ddaab6b7692a88686.jpeg",
+    "static/media/collar-placa.jpeg": "/conlasermx/static/media/collar-placa.2685c1a24fd3762f1a8f.jpeg",
+    "static/media/sudadera-llavero.jpeg": "/conlasermx/static/media/sudadera-llavero.e10455ec3726a2b5bff7.jpeg",
+    "static/media/design.svg": "/conlasermx/static/media/design.c73981bc32475d7d33350f51b6636f05.svg",
+    "static/media/home.svg": "/conlasermx/static/media/home.f35255aa4bbf47c196f8f20b9274a4e0.svg",
+    "static/media/about.svg": "/conlasermx/static/media/about.fe4799a8106870e2fcc48bfc529b1811.svg",
+    "static/media/shipping.svg": "/conlasermx/static/media/shipping.420edc0e26501c8641dbf46a498dd6c9.svg",
+    "static/media/whatsapp.svg": "/conlasermx/static/media/whatsapp.17fa84081b9bf28fab8feef8a70624f1.svg",
+    "static/media/label.svg": "/conlasermx/static/media/label.04434c2c96977b4cd3a4b19e81bf69d6.svg",
+    "static/media/secure-buy.svg": "/conlasermx/static/media/secure-buy.4f83339f8d49713725d855af866151f4.svg",
+    "index.html": "/conlasermx/index.html",
+    "static/media/service.svg": "/conlasermx/static/media/service.daac72a85cd9fc77d80a4fec5d628b3b.svg",
+    "static/media/menu-close.svg": "/conlasermx/static/media/menu-close.6837248f26b4746bca22dce7c606b744.svg",
+    "static/media/cart.svg": "/conlasermx/static/media/cart.a9f4ceeb47a080575ef2523ae6144b79.svg",
+    "static/media/contact.svg": "/conlasermx/static/media/contact.13cb7455faab25b468187f3538a0444b.svg",
+    "static/media/arrow-right.svg": "/conlasermx/static/media/arrow-right.749cca41edeb3191c9f5277f2149c09b.svg",
+    "static/media/arrow-left.svg": "/conlasermx/static/media/arrow-left.49e469429c859c29e386f5686e44cb54.svg",
+    "static/media/menu-open.svg": "/conlasermx/static/media/menu-open.996f4150fbea6150e9d9fb6b5a113ee5.svg",
+    "main.25061a70.css.map": "/conlasermx/static/css/main.25061a70.css.map",
+    "main.cc26c867.js.map": "/conlasermx/static/js/main.cc26c867.js.map",
+    "787.1b0b7581.chunk.js.map": "/conlasermx/static/js/787.1b0b7581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25061a70.css",
+    "static/js/main.cc26c867.js"
+  ]
+}
